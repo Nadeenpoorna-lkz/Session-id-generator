@@ -4,9 +4,9 @@
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
 
 <strong>NB:<strong/> This repo also generates session ID for all bots using whiskeysockets/baileys
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://files.catbox.moe/2nmi9q.png)](#table-of-contents)
 <br/>QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://files.catbox.moe/2nmi9q.png)](#table-of-contents)
 <p align="center">
    <a href="https://github.com/Itxxwasi">
     <img src="https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" width="500">
