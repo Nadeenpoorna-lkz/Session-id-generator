@@ -59,26 +59,35 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By FEARLESS*
-*_Made With 🤍_*
+*_𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 𝐁𝐲 𝐍𝐀𝐃𝐄𝐄𝐍-𝐌𝐃*
+*_ɴᴀᴅᴇᴇɴ ᴍᴅ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ZENITSU CRASH V2 』*
+║ *『 AMAZING YOU'VE CHOSEN NADEEN-MD V2 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
-║❒ *Owner:* https://wa.me/2348075952205_
-║❒ *Repo:* _https://github.com/Fearless-tech1_
-║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
-║❒ *Plugins:* _https://github.com/Fearless-tech1 
+║❒ *Ytube:* _https://www.youtube.com/@NADEEN-MD
+║❒ *Owner:* https://wa.me/94711451319_
+║❒ *Repo:* _https://github.com/Nadeenpoorna-lkz/NADEEN-MD_
+║❒ *WaChannel:* https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I
+║❒ *MADE BY:* Nadeen Poorna
 ╚════════════════════════╝
 _____________________________________
 	
-_Don't Forget To Give Star To My Repo_`
+_𝙳𝚘𝚗'𝚝 𝙵𝚘𝚛𝚐𝚎𝚝 𝚃𝚘 𝙶𝚒𝚟𝚎 𝚂𝚝𝚊𝚛 𝚃𝚘 𝙼𝚢 𝚁𝚎𝚙𝚘_`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
+ contextInfo: {
+       mentionedJid: ['94711451319@s.whatsapp.net'], // specify mentioned JID(s) if any
+      groupMentions: [],
+      forwardingScore: 1,
+      isForwarded: true,
+      forwardedNewsletterMessageInfo: {
+          newsletterJid: '120363304606757133@newsletter',
+          newsletterName: "NADEEN-MD™️",
+          serverMessageId: 999
+    }
 
 
 
